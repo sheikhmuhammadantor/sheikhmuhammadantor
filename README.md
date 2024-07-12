@@ -1,4 +1,8 @@
-### Hi there 👋 1
+## Hi there 👋
+
+- ### 🌱 I’m currently learning Programming.
+- ### 🌱 Wab-Development.
+- ### 📫 How to reach me - sheikhmuhammadantor@gmail.com
 
 <!--
 **sheikhmuhammadantor/sheikhmuhammadantor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
