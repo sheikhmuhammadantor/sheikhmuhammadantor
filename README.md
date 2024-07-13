@@ -1,4 +1,6 @@
-## Hi there 👋
+- So, surely with hardship comes ease. Surely with ˹that˺ hardship comes ˹more˺ ease. [94:5-6]
+- “Allah ˹alone˺ is sufficient ˹as an aid˺ for us and ˹He˺ is the best Protector.” [3:173]
+- O believers! Seek comfort in patience and prayer. Allah is truly with those who are patient. [2:153]
 
 - ### 🌱 I’m currently learning Programming.
 - ### 🌱 Wab-Development.
