@@ -2,9 +2,9 @@
 - “Allah ˹alone˺ is sufficient ˹as an aid˺ for us and ˹He˺ is the best Protector.” [3:173]
 - O believers! Seek comfort in patience and prayer. Allah is truly with those who are patient. [2:153]
 
-- ### 🌱 I’m currently learning Programming.
-- ### 🌱 Wab-Development.
-- ### 📫 How to reach me - sheikhmuhammadantor@gmail.com
+
+- ## 🌱 I’m currently learning Programming **Wab-Development**.
+- ## 📫 How to reach me - sheikhmuhammadantor@gmail.com
 
 <!--
 **sheikhmuhammadantor/sheikhmuhammadantor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
