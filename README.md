@@ -3,7 +3,7 @@
 - O believers! Seek comfort in patience and prayer. Allah is truly with those who are patient. [2:153]
 
 
-- ## 🌱 I’m currently learning Programming :***Wab-Development***.
+- ## 🌱 I’m currently learning Programming : ***Web Development***.
 - ## 📫 How to reach me - sheikhmuhammadantor@gmail.com
 
 <!--
