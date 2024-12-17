@@ -3,7 +3,9 @@
 - O believers! Seek comfort in patience and prayer. Allah is truly with those who are patient. [2:153]
 
 
-- ## 🌱 I’m currently learning Programming : ***Web Development***.
+<!-- - ## 🌱 I’m currently learning Programming : ***Web Development***. -->
+## 🌱 As a **Frontend-Focused Web Developer**, I’m ready to contribute to impactful and user-friendly projects.
+
 - ## 📫 How to reach me - sheikhmuhammadantor@gmail.com
 
 <!--
